@@ -3,7 +3,7 @@
 error_reporting(E_ALL || ~E_NOTICE);
 header("Content-type:text/html; charset=utf-8");
 require_once "jssdk.php";
-$jssdk = new JSSDK("AppID", "AppSecret");
+$jssdk = new JSSDK("wx4c0ce3db77b9283a", "ed96ca78967a6dc6ea57ea821c05d637");
 $signPackage = $jssdk->GetSignPackage();
 ?>
 <!DOCTYPE html>
