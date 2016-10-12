@@ -12,9 +12,9 @@ $signPackage = $jssdk->GetSignPackage();
     <meta charset="UTF-8">
     <!--因为在手机中，所以添加viewport-->
 
-    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+   <!-- <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-    <script type="application/javascript" src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="application/javascript" src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <title>微信测试</title>
 </head>
