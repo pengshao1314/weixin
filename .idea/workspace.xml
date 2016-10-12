@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e08786d9-3f06-4346-a79b-a4c7537f9beb" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\phpstudy\WWW\weixin\wx_sample.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jssdk.php" afterPath="$PROJECT_DIR$/jssdk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample.php" afterPath="$PROJECT_DIR$/sample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="weixin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,16 +32,54 @@
       <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="-12.892858" vertical-offset="1083" max-vertical-offset="2052">
+            <state line="7" column="1" selection-start="89" selection-end="89" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="2394">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="access_token.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/access_token.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="553">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu1.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menu1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="76" selection-start="108" selection-end="108" vertical-scroll-proportion="-1.3571428" vertical-offset="0" max-vertical-offset="1653">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="7" selection-start="1853" selection-end="1853" vertical-scroll-proportion="-37.32143" vertical-offset="0" max-vertical-offset="1159">
+              <folding>
+                <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jssdk.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jssdk.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="36" selection-start="216" selection-end="216" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="2375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="226" selection-end="226" vertical-scroll-proportion="0.34358048" vertical-offset="0" max-vertical-offset="4009">
+            <state line="12" column="26" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="4009">
               <folding>
                 <marker date="1476261747047" expanded="true" signature="3278:3502" placeholder="..." />
               </folding>
@@ -64,6 +106,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/wx_sample.php" />
+        <option value="$PROJECT_DIR$/access_token.json" />
+        <option value="$PROJECT_DIR$/menu.php" />
+        <option value="$PROJECT_DIR$/menu1.php" />
+        <option value="$PROJECT_DIR$/jssdk.php" />
+        <option value="$PROJECT_DIR$/sample.php" />
       </list>
     </option>
   </component>
@@ -128,6 +175,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -148,7 +208,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -177,17 +237,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="-12.892858" vertical-offset="1083" max-vertical-offset="2052">
+        <state line="7" column="1" selection-start="89" selection-end="89" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="2394">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="226" selection-end="226" vertical-scroll-proportion="0.34358048" vertical-offset="0" max-vertical-offset="4009">
+        <state line="12" column="26" selection-start="226" selection-end="226" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="4009">
           <folding>
             <marker date="1476261747047" expanded="true" signature="3278:3502" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jssdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="216" selection-end="216" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="2375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="7" selection-start="1853" selection-end="1853" vertical-scroll-proportion="-37.32143" vertical-offset="0" max-vertical-offset="1159">
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="76" selection-start="108" selection-end="108" vertical-scroll-proportion="-1.3571428" vertical-offset="0" max-vertical-offset="1653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access_token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access_token.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
+          <folding />
         </state>
       </provider>
     </entry>
